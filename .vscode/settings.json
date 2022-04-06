@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d569a587-dd33-4a65-8ae3-fb0f7eaa65d7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/djangotrailApp",
+    "appService.deploySubpath": "."
+}
